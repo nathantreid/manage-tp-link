@@ -1,0 +1,14 @@
+{
+  "plugins": [
+    "transform-class-properties"
+  ],
+  "presets": [
+    [
+      "env",
+      {
+        "modules": false,
+        "node": "6.10"
+      }
+    ]
+  ]
+}
