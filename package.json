@@ -22,7 +22,7 @@
     "babel-plugin-transform-class-properties": "^6.24.1",
     "babel-preset-env": "^1.6.0",
     "start-server-webpack-plugin": "^2.2.0",
-    "webpack": "^3.3.0",
+    "webpack": "^4.44.2",
     "webpack-node-externals": "^1.6.0",
     "webpack-null-plugin": "0.0.2"
   }
